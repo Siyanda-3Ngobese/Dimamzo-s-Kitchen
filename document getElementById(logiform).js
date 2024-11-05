@@ -1,0 +1,1 @@
+document getElementById(logiform).addEventListener("submit")
